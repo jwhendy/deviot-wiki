@@ -11,3 +11,8 @@
 - Snippets
 - Colored ouput console
 - Quick search
+
+### Requirements
+
+- [Sublime 3](https://sublimetext.com/3)
+- [Python 2](https://www.python.org/downloads/release/python-2711/)
