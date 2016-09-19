@@ -9,6 +9,7 @@
 Before start to install Deviot make sure you have installed Python 2.x.
 
 For windows you can download the installer from [this](https://www.python.org/downloads/) link. 
+
 In UNIX environments python is already installed (in OS X since version 10.8)
 
 ## Package Control
