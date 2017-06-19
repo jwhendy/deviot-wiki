@@ -2,7 +2,7 @@ List of available commands:
 
 |Command | Description|
 |--------|------------|
-|cwd | Shows the Current Working Directory|
+|cwd | Shows the current working directory|
 |ls  | Lists all available folder in the cwd|
 |cd  | Changes the cwd (same as in any O.S)|
 |mk | Make a new folder |
