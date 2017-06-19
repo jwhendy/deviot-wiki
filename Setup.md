@@ -30,4 +30,14 @@ Deviot will show a window with the state of the installation.
 
 ## Developer
 
-- Follow the same steps of manual setup, but [download](https://github.com/gepd/Deviot/archive/develop.zip) the developer zip file
+To install the developer version go to `Preferences > Package Settings > Package Control > Settings - User` a new file will be open, paste:
+
+```json
+{
+"repositories": ["https://github.com/gepd/Deviot/tree/develop"]
+}
+```
+
+1. To upgrade the files open the Package Control quick panel `Preferences > Package Control` and select `Upgrade Package`. After some seconds the plugin will be updated.
+
+2. If there is a new change in the branch and you are not receiving the update, select `Upgrade/Override All Packages` From the Package Control quick panel.
