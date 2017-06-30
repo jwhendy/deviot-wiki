@@ -2,7 +2,7 @@
 
 ### List of Features
 
-- Support for more than 270 boards
+- Support for more than 400 boards
 - Multiples environments to the same project
 - Library manager
 - OTA upload in ESP devices
