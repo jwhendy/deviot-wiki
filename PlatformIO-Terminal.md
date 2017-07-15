@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/gepd/Deviot/blob/master/docs/PlatformIOTerminal.png?raw=true">
+</p>
+
 List of available commands:
 
 |Command | Description|
