@@ -30,11 +30,21 @@ Deviot will show a window with the state of the installation.
 
 ## Developer
 
-To install the developer version go to `Preferences > Package Settings > Package Control > Settings - User` a new file will be open, paste:
+To install the developer version go to `Preferences > Package Settings > Package Control > Settings - User`, which will open the settings file. Add the `repositories` entry so it looks like this:
 
 ```json
 {
-"repositories": ["https://github.com/gepd/Deviot/tree/develop"]
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+
+    "installed_packages":
+    [
+	"Package Control"
+    ],
+
+    "repositories": ["https://github.com/gepd/Deviot/tree/develop"]
 }
 ```
 
